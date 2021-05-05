@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Krishn157/krishn157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on SpringBoot
+- 🌱 I’m currently learning Microservices
+- 💬 Ask me about Spring Boot, MERN, Flutter
+- 📫 How to reach me:-
 
-Here are some ideas to get you started:
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishn157/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Krishn's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishn157&show_icons=true&theme=radical)](https://github.com/krishn157/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishn157&show_icons=true&theme=radical)](https://github.com/krishn157/github-readme-stats)
