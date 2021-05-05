@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on SpringBoot
 - 🌱 I’m currently learning Microservices
 - 💬 Ask me about Spring Boot, MERN, Flutter
-- 📫 How to reach me:-
+- 📫 How to reach me:
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishn157/)
 
